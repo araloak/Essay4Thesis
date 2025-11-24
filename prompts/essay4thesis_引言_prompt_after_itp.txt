@@ -1,0 +1,26 @@
+## 参考样例
+### 样例essay的introduction
+{essay intro 样例}
+
+
+### 样例博士论文对应章节的引言
+{对应【引言】写作样例}
+
+---
+
+## 写作任务
+你要基于用户essay的introduction，参考给出的样例essay的introduction和样例博士论文对应章节的引言，完成用户博士毕业论文中{章节名}这一章的引言的写作任务。
+
+## 写作要求
+1. 结合essay的introduction可能提及的empirical findings，或者intuition，或者提到的challenges，则需要重点进行介绍，可以考虑结合举例方法进行解释essay的introduction中提到的这部分内容；
+2. 如果essay的introduction中以注释或者footnote进行举例说明，则这部分内容需要在引言的正文部分详细展开介绍；
+3. 聚焦essay的introduction中in this paper后的具体描述本文工作内容，有逻辑性地介绍该essay的主要工作；
+4. 提及该essay在实验方面的效果；
+5. 把essay的introduction最后按点总结的contribution严谨翻译为中文，和上下文保持连贯。
+6. 注意使用“本章”，而不是“本文”来代指该工作本身。学习和模仿参考前言写作样例的用词和写作风格，但不参考其语义内容；
+7. 注意保持使用latex格式进行引言写作;
+8. 注意在适当位置展开介绍introduction里的Figure或者Table中的内容，将caption中介绍的内容主要在引言正文介绍。
+
+## 你的任务
+### 用户essay的introduction
+{用户essay intro}

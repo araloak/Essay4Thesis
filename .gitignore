@@ -1,0 +1,5 @@
+config.json
+/data/
+/.vscode/
+/__pycache__/
+process_methods.ps1

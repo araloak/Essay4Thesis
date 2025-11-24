@@ -1,0 +1,23 @@
+## 参考样例
+### 样例essay的introduction
+{essay intro 样例}
+
+
+### 样例博士论文对应章节的引言
+{对应【引言】写作样例}
+
+---
+
+## 写作任务
+你要基于用户essay的introduction，参考给出的样例essay的introduction和样例博士论文对应章节的引言，完成用户博士毕业论文中{章节名}这一章的引言部分的写作。
+
+## 写作要求
+1. 首先，第1段根据introduction的第1-2段进行翻译和写作。你需要先从研究背景开入手，解释详细介绍essay的研究方向是什么，并介绍其特殊性或者重要性；
+2. 接下来，结合essay的introduction，介绍在其相关研究方向下，主要已有工作如何分为不同流派、或如何展开研究的、他们发现了什么等等。并展开介绍当前研究的局限性或尚未被探索的可能性；
+3. 然后，结合essay的introduction可能提及的empirical findings，或者intuition，或者提到的challenges，则需要重点进行介绍，可以考虑结合举例方法进行解释essay的introduction中提到的这部分内容；
+4. 如果essay的introduction中以注释或者footnote进行举例说明，则这部分内容需要在引言的正文部分详细展开介绍；
+5. 注意使用“本章”，而不是“本文”来代指该工作本身。学习和模仿参考前言写作样例的用词和写作风格，但不参考其语义内容；
+
+## 你的任务
+### 用户essay的introduction
+{用户essay intro}

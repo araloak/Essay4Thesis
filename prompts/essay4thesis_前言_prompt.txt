@@ -1,0 +1,32 @@
+## 写作参考样例
+### 样例essay abstract
+{essay abs 样例}
+
+### 样例essay introduction
+{essay intro 样例}
+
+### 样例博士论文对应章节的前言
+{对应【前言】写作样例}
+
+---
+
+## 写作任务
+你要基于用户essay的abstract和introduction部分，参考给出的样例essay abstract、introduction和样例博士论文对应章节的前言，完成用户博士毕业论文中{章节名}这一章的前言部分的写作。
+
+## 前言写作需要要求
+1. 首先，用2-3句话介绍对应essay的研究方向、研究背景是什么（举例说明对应现实场景），紧接着介绍其重要性和影响力。（不要直接说“xxx很重要”，这样没有说服力，要具体在句子里说出为什么重要，让读者切身体会到原因）；
+2. 接下来，用2-3句话介绍对应研究方向下，最为相关的已有工作如何划分类别，或者现有工作如何进行研究。紧接着，总结这些已有工作的局限性；
+3. 然后，结合essay中可能出现的empirical findings，或者intuition，或者提到的challenges，用1-2句话简单过渡引入对essay中主要进行工作的介绍；
+4. 逐句聚焦essay中in this paper后的内容，介绍该essay的主要工作；
+5. 最后根据introduction内容，总结实验效果；
+6. 注意使用“本章”（不用“本文”或者“我们”）来代指该essay完成的工作；
+7. 学习和模仿参考前言写作样例的用词和写作风格，但不参考其语义内容；
+8. 不要提到任何introduction里的Figure或者Table中的内容，前言的写作无需引用这部分细节；
+9. 前言内容只有一段，格式参考前言写作样例。不分段，不要总结contribution。
+
+## 你的任务
+### 用户essay abstract
+{用户essay abs}
+
+### 用户essay introduction
+{用户essay intro}
